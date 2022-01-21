@@ -65,3 +65,7 @@ h1{
     justify-content: center;
     background-color: rgb(197, 26, 26);
 }
+
+.box:hover,.green_3:hover,.yellow_5:hover,.red_3_5:hover{
+    transform: scale(1.1);
+}
