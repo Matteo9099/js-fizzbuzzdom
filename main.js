@@ -15,4 +15,3 @@ var containerElemento = document.getElementById('container');
     }
    
   }
-
