@@ -68,4 +68,5 @@ h1{
 
 .box:hover,.green_3:hover,.yellow_5:hover,.red_3_5:hover{
     transform: scale(1.1);
+    border: 1px solid #fff;
 }
